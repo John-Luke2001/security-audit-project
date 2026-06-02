@@ -18,3 +18,9 @@ This repository contains security audits, compliance reviews, and risk assessmen
 
 ## Goal
 The purpose of this project is to evaluate organizational security controls and identify opportunities to improve security posture.
+## Author
+
+John Pichon
+
+Google Cybersecurity Professional Certificate
+CompTIA Security+ Candidate
